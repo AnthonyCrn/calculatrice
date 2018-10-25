@@ -1,2 +1,2 @@
 # calculatrice
-exercice de développement pour calculatrice
+exercice de développement en php ( calculatrice)
